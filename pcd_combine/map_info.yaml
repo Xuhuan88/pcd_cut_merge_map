@@ -1,0 +1,22 @@
+point_clouds:
+- filePath: /home/breeze/map/a1.pcd
+  x: -141.262
+  y: 46.7982
+  z: 1.29255
+  degree_x: -0.00600295
+  degree_y: 0.00827212
+  degree_z: 2.67401
+- filePath: /home/breeze/map/a2.pcd
+  x: 255.989
+  y: -114.554
+  z: 4.96356
+  degree_x: 0.00758121
+  degree_y: 0.0111451
+  degree_z: -1.58356
+- filePath: /home/breeze/map/a3.pcd
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  degree_x: 0.0
+  degree_y: 0.0
+  degree_z: 0.0
