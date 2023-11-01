@@ -16,6 +16,11 @@
 - 运行程序文件，即可将map文件夹中的所有点云地图文件合并成一个点云地图文件；
 
 ## 功能实现
+- 1.拆包
+- $ python3 cut_bag_py3.py input.bag output.bag bag_num
+- 视python版本使用相应脚本
+- 2.通过autoware将拆分的bag包出成pcd地图，记录文件路径、XYZ 坐标和欧拉角，按map_info.yaml格式写入
+- 3.编译pcd地图拼接代码并运行脚本 
 - $ mkdir budild
 - $ cd build
 - $ cmake ..
